@@ -1,6 +1,6 @@
-# /etc/acpi/events/asus-keyboard-backlight-down
+# /etc/acpi/events/asus-ul30vt-backlight-down
 # This is called when the user presses the key brightness 
-# down button and calls /etc/acpi/asus-keyboard-backlight.sh for
+# down button and calls /etc/acpi/asus-ul30vt-backlight.sh for
 # further processing.
 
 event=video/brightnessdown BRTDN
